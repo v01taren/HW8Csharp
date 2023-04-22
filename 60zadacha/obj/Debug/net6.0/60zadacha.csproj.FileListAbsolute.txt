@@ -1,0 +1,15 @@
+D:\GeekBrains\HW8Csharp\60zadacha\bin\Debug\net6.0\60zadacha.exe
+D:\GeekBrains\HW8Csharp\60zadacha\bin\Debug\net6.0\60zadacha.deps.json
+D:\GeekBrains\HW8Csharp\60zadacha\bin\Debug\net6.0\60zadacha.runtimeconfig.json
+D:\GeekBrains\HW8Csharp\60zadacha\bin\Debug\net6.0\60zadacha.dll
+D:\GeekBrains\HW8Csharp\60zadacha\bin\Debug\net6.0\60zadacha.pdb
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.csproj.AssemblyReference.cache
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.AssemblyInfoInputs.cache
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.AssemblyInfo.cs
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.dll
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\refint\60zadacha.dll
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.pdb
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\60zadacha.genruntimeconfig.cache
+D:\GeekBrains\HW8Csharp\60zadacha\obj\Debug\net6.0\ref\60zadacha.dll

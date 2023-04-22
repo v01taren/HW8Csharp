@@ -1,0 +1,15 @@
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.csproj.AssemblyReference.cache
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.AssemblyInfoInputs.cache
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.AssemblyInfo.cs
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW8Csharp\58zadacha\bin\Debug\net6.0\58zadacha.exe
+D:\GeekBrains\HW8Csharp\58zadacha\bin\Debug\net6.0\58zadacha.deps.json
+D:\GeekBrains\HW8Csharp\58zadacha\bin\Debug\net6.0\58zadacha.runtimeconfig.json
+D:\GeekBrains\HW8Csharp\58zadacha\bin\Debug\net6.0\58zadacha.dll
+D:\GeekBrains\HW8Csharp\58zadacha\bin\Debug\net6.0\58zadacha.pdb
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.dll
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\refint\58zadacha.dll
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.pdb
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\58zadacha.genruntimeconfig.cache
+D:\GeekBrains\HW8Csharp\58zadacha\obj\Debug\net6.0\ref\58zadacha.dll
